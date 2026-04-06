@@ -1,3 +1,5 @@
 module go-api-with-ratelimit
 
-go 1.24.3
+go 1.25.0
+
+require golang.org/x/time v0.15.0
